@@ -10,8 +10,11 @@
   },
   "dependencies": {
     "@types/node": "^18.16.2",
+    "github-markdown-css": "^5.2.0",
     "sass": "^1.62.1",
+    "spacingjs": "^1.0.7",
     "vue": "^3.2.47",
+    "vue-markdown": "^2.2.4",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {

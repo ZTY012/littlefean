@@ -9,6 +9,9 @@ export default defineConfig({
     alias: {
       '@': resolve(__dirname, 'src'),
     },
-    extensions: ['.js', '.json', '.ts'],
+    extensions: ['.ts'],
   },
+  server: {
+    port: 3200,
+  }
 })
